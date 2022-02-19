@@ -1,8 +1,6 @@
-<style>
-  h2 {
-      background: red;
-  }
-</style>
+---
+layout: page
+---
 
 # Les secrets du Dashi
 ## Dashi au kombu
