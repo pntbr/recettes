@@ -1,3 +1,9 @@
+<style>
+  h2 {
+      background: red;
+  }
+</style>
+
 # Les secrets du Dashi
 ## Dashi au kombu
 **Pour 40cl**
